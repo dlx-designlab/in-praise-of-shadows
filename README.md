@@ -1,4 +1,4 @@
-# forest-library
+# In Praise of Shadows
 
 ## Model Files
 Download the model files from [here](https://drive.google.com/file/d/1TnPET5_tiDSZEnOc6p9SJ-ttVLfglGGk/view?usp=sharing) and extract into the root folder of the project.
