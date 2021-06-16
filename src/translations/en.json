@@ -1,0 +1,75 @@
+{
+    "nav-bar": {
+        "explore": "Explore",
+        "search": "Search",
+        "discover": "Discover"
+    },
+    "about": "About the project",
+    "about-the-project": "Developed as a collaboration between DLX Design Lab and University of Tokyo’s remote sensing Takeuchi Lab, this project is a virtual forest explorer for monitoring and experiencing forest ecosystems in an immersive way. The forest explorer empowers people to support more transparent forest projects and make more sustainable decisions in their daily life.",
+    "language": "Language",
+    "forest-view": {
+        "simulating-forest": "simulating forest...",
+        "choose-entry": "Choose point of entry",
+        "biodiversity": "Biodiversity",
+        "eight-species": "species",
+        "carbon-capture": "Carbon Captured",
+        "photosynthesis": "Photosynthesis",
+        "forest-fact-one": "This forest contains nearly 2,000 species and subspecies, including some of the most ancient living trees on the planet. One example is the famous Jomon Sugi, of an age estimated between 2,170 and 7,200 years.",
+        "search-placeholder": "Search by location, project, keyword, etc...",
+        "forest-fact-two": "Protected as a UNESCO World Heritage, the forest was an inspiration for Studio Ghibli’s Princess Mononoke.<br><br>In the film, the forest spirit also called Shishigami, is known as the god of life and death. Other smaller spirits called Kodama also inhabit the Cedar forest and represent the health of the ecosystem.",
+        "forest-fact-three": "Watching all ‘Star Wars’ movies emits 6 kg of CO2. That is equivalent to a lightbulb running for 73 days. In fact, 60% of the internet’s emissions come from video streaming. <br><br>Netflix has partnered with Eden ReforestationProjects and committed to planting 1 million trees in Bolivia to reduce its carbon footprint. Netflix has also supported an employment scheme for locals through this reforestation project. ",
+        "tour-forest": "Tour the forest from another perspective",
+        "forest-bath": "Take a forest bath",
+        "vr-scan": "scan QR code to visit in VR"
+    },
+    "my-forest": {
+        "account-level": "Level 5",
+        "last-active": "last active: 2/16/21 11:10AM",
+        "linked-accounts": "Linked Accounts",
+        "challenge-title": "Challenge",
+        "bike-challenge": "BIKE CHALLENGE<br>duration: 1 week",
+        "no-plastic-challenge": "NO PLASTIC CHALLENGE<br>duration: 1 day",
+        "in-progress": "in progress",
+        "score-title": "score",
+        "statistics": "statistics",
+        "rewards": "rewards",
+        "growth": "growth",
+        "activity-breakdown": "activity breakdown",
+        "long-term": "long term",
+        "incomplete": "incomplete",
+        "short-term": "short term",
+        "continue": "continue",
+        "start": "start",
+        "rain": "rain",
+        "nutrients": "nutrients",
+        "sun": "sun",
+        "my-carbon-footprint": "My Carbon Footprint"
+    },
+    "search-page": {
+        "input-placeholder": "Search by location, project, keyword, etc..."
+    },
+    "discover-page": {
+        "first": "Rare bird species in Brazil",
+        "second": "Timer Trafficking in the Amazon",
+        "third": "Link between forests and coronavirus",
+        "fourth": "Impact of soy products on deforestation",
+        "fifth": "Oldest tree in Asia",
+        "sixth": "Borneo forest used for Olympic Games"
+    },
+    "globe-page": {
+        "about-the-project": "Text here..",
+        "valdivian": "Valdivian",
+        "maya-biosphere-reserve": "Maya Biosphere Reserve",
+        "yamanashi": "Yamanashi",
+        "yakushima": "Yakushima",
+        "kinabalu-national-park": "Kinabalu National Park",
+        "akasawa-natural-recreational-forest": "Akasawa Natural Recreational Forest",
+        "epping-forest": "Epping Forest",
+        "aya-biosphere-reserve": "Aya Biosphere Reserve"
+    },
+    "log-in-page": {
+        "username": "Username",
+        "password": "Password",
+        "submit": "ENTER MY FOREST"
+    }
+}

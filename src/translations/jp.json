@@ -1,0 +1,75 @@
+{
+    "nav-bar": {
+      "explore": "探索",
+      "search": "探す",
+      "discover": "発見する"
+    },
+    "about": "",
+    "about-the-project": "このプロジェクトについて ：このプロジェクトは、DLX Design Labと東京大学でリモートセンシングの研究をしている竹内研究室とのコラボレーションにより開発されました。このプロジェクトは、没入型の方法で森林の生態系をモニターし、体験するための仮想の森林探索です。この森林探索は、人々が、より透明性の高い森林プロジェクトを支援し、日常生活の中でより持続可能な意思決定を行うことを可能にします。",
+    "language": "言語",
+    "forest-view": {
+      "simulating-forest": "森をシュミレーションする...",
+      "choose-entry": "入り口の選択 ",
+      "biodiversity": "生物多様性 ",
+      "eight-species": "種",
+      "carbon-capture": "炭素回収",
+      "photosynthesis": "光合成 ",
+      "forest-fact-one": "屋久島の森には約2,000種の生物が生息しており、その中には地球上で最も長生きをしている樹木も含まれています。例として、有名な縄文杉は、推定樹齢が2,170年から7,200年と言われています",
+      "search-placeholder": "プロジェクト、場所、キーワードなどで検索する",
+      "forest-fact-two": "ユネスコの世界遺産として保護されているこの森は、スタジオジブリの「もののけ姫」のインスピレーションとなりました。<br><br>映画の中で、森の精霊は「シシガミ」と呼ばれ、生と死を司る神として描かれています。また、「こだま」と呼ばれる小さな精霊も杉の森に生息し、生態系の健康状態を表しています。",
+      "forest-fact-three": "「スター・ウォーズ」の映画をすべて観ると、6kgのCO2が排出されます。これは、電球を73日間点灯し続けるのに相当します。実際、インターネットによる二酸化炭素排出量の60％は、ビデオストリーミングによるものです。 <br><br>Netflixは、Eden ReforestationProjectsと提携し、二酸化炭素排出量を削減するために、ボリビアに100万本の木を植えることを表明しました。Netflixは、この森林再生プロジェクトを通じて、現地の人々の雇用計画もサポートしています。 ",
+      "tour-forest": "別の視点から森のツアーに行く ",
+      "forest-bath": "森林浴をする",
+      "vr-scan": "QRコードを読み取ってVRで訪れる"
+    },
+    "my-forest": {
+      "account-level": "レベル 5",
+      "last-active": "last active: 2/16/21 11:10AM",
+      "linked-accounts": "アカウント",
+      "challenge-title": "チャレンジ",
+      "bike-challenge": "自転車チャレンジ<br>期間：1週間 ",
+      "no-plastic-challenge": "ノープラスチックチャレンジ<br>期間： 1日",
+      "in-progress": "進行中",
+      "score-title": "得点",
+      "statistics": "統計データ",
+      "rewards": "報酬",
+      "growth": "成長",
+      "activity-breakdown": "活動の内訳",
+      "long-term": "長期",
+      "incomplete": "不完全",
+      "short-term": "短期",
+      "continue": "続ける",
+      "start": "スタート",
+      "rain": "雨",
+      "nutrients": "養分",
+      "sun": "太陽",
+      "my-carbon-footprint": "私の炭素排出量"
+    },
+    "search-page": {
+      "input-placeholder": "プロジェクト、場所、キーワードなどで検索する"
+    },
+    "discover-page": {
+      "first": "ブラジルの希少な鳥類",
+      "second": "アマゾンの木材の密売 ",
+      "third": "森林とコロナウイルスの関係",
+      "fourth": "大豆製品の森林破壊への影響 ",
+      "fifth": "アジアで最も古い木",
+      "sixth": "ボルネオ島の森がオリンピックに使われた"
+    },
+    "globe-page": {
+      "about-the-project": "Text here..",
+      "valdivian": "バルディビア",
+      "maya-biosphere-reserve": "マヤ生物圏保護区 ",
+      "yamanashi": "山梨",
+      "yakushima": "屋久島 ",
+      "kinabalu-national-park": "キナバル国立公園",
+      "akasawa-natural-recreational-forest": "赤沢",
+      "epping-forest": "エピング フォレスト",
+      "aya-biosphere-reserve": "アヤの照葉樹林"
+    },
+    "log-in-page": {
+      "username": "ユーザーネーム",
+      "password": "パスワード",
+      "submit": "マイフォレストに入る"
+    }
+  }

@@ -1,0 +1,81 @@
+[
+    {
+      "name": "Valdivian",
+      "jp_name": "バルディビア",
+      "country": "Chile",
+      "type": "Rainforest",
+      "lat": -23.3,
+      "lon": -127.62,
+      "elevation": 6046,
+      "globe": "5.png"
+    },
+    {
+      "name": "Maya Biosphere Reserve",
+      "jp_name": "マヤ生物圏保護区",
+      "country": "Guatemala",
+      "type": "Nature Reserve",
+      "lat": 17.48,
+      "lon": -148.8,
+      "elevation": 3976
+    },
+    {
+        "name": "Yamanashi",
+        "jp_name": "山梨",
+        "country": "Japan",
+        "type": "Forest",
+        "lat": 47.4,
+        "lon": 120.5,
+        "elevation": 3976,
+        "globe": "3.png"
+      },
+      {
+        "name": "Yakushima",
+        "jp_name": "屋久島",
+        "country": "Japan",
+        "type": "Temperate Ancient Forest",
+        "lat": 43.4,
+        "lon": 110.5,
+        "elevation": 3976,
+        "globe": "1.png"
+      },
+      {
+        "name": "Kinabalu National Park",
+        "jp_name": "キナバル国立公園",
+        "country": "Malaysia",
+        "type": "Coniferous",
+        "lat": 6.2,
+        "lon": 92.6,
+        "elevation": 3976
+      },
+      {
+        "name": "Akasawa Natural Recreational Forest",
+        "jp_name": "赤沢",
+        "country": "Japan",
+        "type": "Coniferous",
+        "lat": 47.4,
+        "lon": 115.5,
+        "elevation": 3976,
+        "globe": "3.png"
+      },
+      {
+        "name": "Epping Forest",
+        "jp_name": "エピング フォレスト",
+        "country": "United Kingdom",
+        "type": "Ancient woodland",
+        "lat": 71.7,
+        "lon": -50.16,
+        "elevation": 3976,
+        "globe": "6.png"
+      },
+      {
+        "name": "Aya Biosphere Reserve",
+        "jp_name": "アヤの照葉樹林",
+        "country": "Japan",
+        "type": "Lucidophyllous",
+        "lat": 45.4,
+        "lon": 112.5,
+        "elevation": 3976,
+        "globe": "1.png"
+      }
+]
+   
